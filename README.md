@@ -28,7 +28,7 @@ The program includes two example problems:
    - Solution: `[1, 2, 3], [4, 5, 6], [7, 8, 0]`
 
 2. Problem 2: Initial state `[2, 8, 1], [0, 4, 3], [7, 6, 5]`
-   - Solution: `[1, 2, 3], [4, 5, 6], [7, 8, 0]`
+   - Solution: `No solution found for problem 2.`
 
 ## License
 
