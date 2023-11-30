@@ -1,4 +1,4 @@
-# 8-Puzzle Solver
+# L2Q5, 8-Puzzle Solver
 
 This is a Python program that solves the 8-puzzle using the A* algorithm with the Manhattan Distance heuristic.
 
